@@ -19,7 +19,7 @@
 - Bioinformatics & Machine Learning
 
 📫 How to reach me: your_email_here  
-🌐 Website: https://drkumarnandan.github.io/drkumarnandan
+🌐 Website: https://drkumarnandan.github.io/
 
 ---
 
