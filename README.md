@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**drkumarnandan/drkumarnandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 I am a Computational Biologist working on peptide and protein research using deep learning, protein language models, and molecular dynamics simulations.
 
-Here are some ideas to get you started:
+🧬 My research focuses on:
+- Cell-penetrating peptides (CPPs), antimicrobial peptides (AMPs) and others
+- Protein–membrane interactions and pore formation mechanisms
+- AI-driven peptide design using protein language models (ESM, ProtT5)
+- Multiscale molecular dynamics simulations (all-atom & coarse-grained)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current work:
+- Developing **pLM4CPPs** and deep learning frameworks for peptide prediction
+- Integrating AI + MD simulations for biomolecular design
+
+🛠️ Tools & Technologies:
+- Python, TensorFlow, PyTorch
+- GROMACS, Molecular Dynamics
+- Protein Language Models (ESM, ProtT5, SeqVec)
+- Bioinformatics & Machine Learning
+
+📫 How to reach me: your_email_here  
+🌐 Website: https://drkumarnandan.github.io/drkumarnandan
+
+---
+
+### 📊 GitHub Stats
+![Nandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkumarnandan&show_icons=true)
+
+---
+
+### 🔥 Research Interests
+- AI in Drug Discovery  
+- Peptide Therapeutics  
+- Protein Structure & Dynamics  
+- Bioinformatics & Computational Biology  
