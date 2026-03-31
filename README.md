@@ -12,11 +12,8 @@
 
 🌐 Website: https://drkumarnandan.github.io/
 
----
 
 🌱 Currently exploring transformer-based models and agentic AI for applications in bioinformatics and biomolecular design.
-
----
 
 ### 🔥 Research Interests
 - AI in Drug Discovery  
