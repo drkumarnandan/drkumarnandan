@@ -8,17 +8,7 @@
 - AI-driven peptide design using protein language models (ESM, ProtT5)
 - Multiscale molecular dynamics simulations (all-atom & coarse-grained)
 
-🚀 Current work:
-- Developing **pLM4CPPs** and deep learning frameworks for peptide prediction
-- Integrating AI + MD simulations for biomolecular design
-
-🛠️ Tools & Technologies:
-- Python, TensorFlow, PyTorch
-- GROMACS, Molecular Dynamics
-- Protein Language Models (ESM, ProtT5, SeqVec)
-- Bioinformatics & Machine Learning
-
-📫 How to reach me: your_email_here  
+📫 How to reach me: nandan@ksu.edu  
 🌐 Website: https://drkumarnandan.github.io/
 
 ---
