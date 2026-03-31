@@ -9,12 +9,12 @@
 - Multiscale molecular dynamics simulations (all-atom & coarse-grained)
 
 📫 How to reach me: nandan@ksu.edu  
+
 🌐 Website: https://drkumarnandan.github.io/
 
 ---
 
-### 📊 GitHub Stats
-![Nandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkumarnandan&show_icons=true)
+🌱 Currently exploring transformer-based models and agentic AI for applications in bioinformatics and biomolecular design.
 
 ---
 
